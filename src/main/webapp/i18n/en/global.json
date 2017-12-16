@@ -10,6 +10,14 @@
                 "bankAccount": "Bank Account",
                 "label": "Label",
                 "operation": "Operation",
+                "regionMySuffix": "Region",
+                "countryMySuffix": "Country",
+                "locationMySuffix": "Location",
+                "departmentMySuffix": "Department",
+                "taskMySuffix": "Task",
+                "employeeMySuffix": "Employee",
+                "jobMySuffix": "Job",
+                "jobHistoryMySuffix": "Job History",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
